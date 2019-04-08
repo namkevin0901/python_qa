@@ -5,6 +5,7 @@ def contact(lst, name, phone):
     })
     return lst
 
+
 if __name__ == "__main__":
     lst = []
     while True:
